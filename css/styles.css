@@ -1,0 +1,21 @@
+.wrapper {
+    width: 1800px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.nav-text {
+    width: 430px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+}
+.nav-button{
+    width: 180px;
+}
+.nav-modern{
+    width: 285px;
+}
