@@ -1,37 +1,159 @@
-.wrapper {
-    width: 1800px;
+.wrapper{
+    width: 1366px;
     display: flex;
-    justify-content: center;
+    align-items: baseline;
     justify-content: space-between;
-    margin-left: 50px;
-    margin-top: 40px;
+    padding: 10px;
 }
-.nav-text {
-    width: 430px;
+.nav-text{
+    width: 326px;
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    justify-content: space-between;
     font-size: 20px;
-    color: #2289FF;
     font-family: 'Noto Sans KR', sans-serif;
-    margin-right: 400px;
+    color: #2289FF;
+    margin-right: 120px;
+
 }
-.nav-button{
-    width: 180px;
+.nav-photo{
+    width: 100%;
+    position: absoulte;
+    margin-left: 200px;
 }
-.nav-modern{
-    width: 285px;
+.nav-rectangle{
+    position: absolute;
+    margin-top: 50px;
 }
-.div {
-    width: 864px;
-    height: 400px;
-    background-color: red;
-    border-radius: 50px;
-    margin-top: 130px;
-    z-index: 9;
+body{
+    overflow-x: hidden;
 }
-.batt{
-    padding-bottom: 109px;
-    margin-left: 400px;
-    z-index: 1000;
+.warwera{
+    position: absolute;
+    margin: 100px;
+}
+.apartament{
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.xaxvi{
+    position: absolute;
+}
+.group{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 130px;
+}
+.axali{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 40px;
+}
+.uaxlesi{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 100px;
+}
+.xaxvuli{
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 800px;
+}
+.xatatuli{
+    position: absolute;
+    margin-top: 1000px;
+    margin-left: 100px;
+}
+.marwkvi{
+    position: absolute;
+    margin-top: 1400px;
+    margin-left: 100px;
+}
+.kojo{
+    position: absolute;
+    margin-top: 950px;
+    margin-left: 600px;
+}
+.kojorma{
+    position: absolute;
+    margin-top: 2000px;
+
+}
+.kejagma{
+    position:absolute;
+    margin-top: 2000px;
+    margin-left: 440px;
+}
+.group1{
+    position:absolute;
+    margin-top: 2100px;
+}
+.group2{
+    position:absolute;
+    margin-top: 2100px;
+    margin-left: 300px;
+}
+.group3{
+    position:absolute;
+    margin-top: 2100px;
+    margin-left: 600px;
+}
+.group4{
+    position:absolute;
+    margin-top: 2100px;
+    margin-left: 900px;
+}
+.surface{
+    position: absolute;
+    margin-top: 2200px;
+    margin-left: 1056px;
+}
+.group5{
+    position:absolute;
+    margin-top: 2350px;
+}
+.group6{
+    position:absolute;
+    margin-top: 2350px;
+    margin-left: 300px;
+}
+.group7{
+    position:absolute;
+    margin-top: 2350px;
+    margin-left: 600px;
+}
+.home{
+    position:absolute;
+    margin-top: 2450px;
+    margin-left: 755px;
+}
+.group8{
+    position: absolute;
+    margin-top: 2350px;
+    margin-left: 900px;
+}
+.free{
+    position: absolute;
+    margin-top: 2900px;
+    margin-left: 350px;
+}
+.grid{
+    position: absolute;
+    margin-top: 3050px;
+    margin-left: 50px; 
+}
+.ruxi{
+    position: absolute;
+    margin-top: 3700px;
+}
+.copy{
+    position: absolute;
+    margin-top: 3725px;
+    margin-left: 50px;
+}
+.right{
+    position: absolute;
+    margin-top: 3725px;
+    margin-left: 1100px;
 }
